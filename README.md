@@ -1,3 +1,6 @@
+![Header](./joaomaluco.png)
+
+
 # 💫 About Me:
 -👋 Olá,  meu nome é João Vitor da Costa Rodrigues.<br>-🧑 Nasci em Santa Maria, Rio grande do Sul.<br>-🏠 Atualmente moro em São José, Santa Catarina.<br>-🩺 Nasci em 12/08/2006.<br>-💻 Estou cursando Desenvolvimento de Sistemas.<br>-📚 Estudo na Escola S, São José.
 
